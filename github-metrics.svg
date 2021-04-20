@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2171" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2188" class="">
     <defs>
         <style/>
     </defs>
@@ -1844,24 +1844,6 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#492 WIP: Easy to understand README</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by black7375 in <span class="repo">zdharma/zinit</span></div>
-                                    <div class="comment">Well I think we should get some decision going as it'll take a while for zinit beginners to go straight into suggesting something in this PR ;]
-I will say that when I started out with zinit ( so that qualifies as a beginner I guess ), it was really easy for me to just dive in ( as someone who was familiar with zsh ) using the "in your face" example
-</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
@@ -1885,8 +1867,28 @@ I will say that when I started out with zinit ( so that qualifies as a beginner 
                                 </div>
                                 <div class="details">
                                     <div>opened by black7375 in <span class="repo">zdharma/zinit</span></div>
-                                    <div class="comment">Ah, I see - yeah, I didn't mean for that to be copied step by step - I'm using cargo as I actually worked a bit on the starship repo and wanted to have master built.
-In any case what I meant was that the prompt heading is under Prezto and I think it should be a general place to show people how to configure a prompt with zinit, regardless of what framework they are migrating from.
+                                    <div class="comment">I meant a preface that explains what you're trying to show, not an added preface while leaving the same sentence. 
+For example
+Example - Importing the environment and terminal Prezto modules
+</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                    </svg>
+                                    <div class="content">
+                      Commented on <span class="issue">#492 WIP: Easy to understand README</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by black7375 in <span class="repo">zdharma/zinit</span></div>
+                                    <div class="comment">Sorry, I just feel it's bad english without "to" and "so"
+If you want to source 
+you can do so with
 </div>
                                 </div>
                             </section>
@@ -1910,15 +1912,41 @@ In any case what I meant was that the prompt heading is under Prezto and I think
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                      Commented on <span class="issue">#492 WIP: Easy to understand README</span>
+                      Commented on <span class="issue">#156 launch.json support changes</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by black7375 in <span class="repo">zdharma/zinit</span></div>
-                                    <div class="comment">I don't mind, they're both OK
+                                    <div>opened by bbenzikry in <span class="repo">mfussenegger/nvim-dap</span></div>
+                                    <div class="comment">Thanks for the feedback, much appreciated. 
+<i>
+If the motivation is to re-use existing vscode specific launch.json files, wouldn't it make sense if the mapping would be part of the load_launchjs call? E.g. load_launchjs(nil, {: }) or something like that.
+I'm not sure if I understand the problem correct. Do you have a concrete example?
+</i>
+The reasoning I had was to create a way that's embedded into the structure instead of letting this become too customizable and dependent on individual user configuration.
+My far-reaching thought was to see if something we come up with could be added to the launch.json schema so users can easily add this ( and understand what it does ) when working in a team that's split on vscode / nvim without too much friction. 
+To be honest IMO this entire thing could also be solved with a bigger refactor where the adapter holds the extensions instead of the configuration key and with some kind of way to decide on the right adapter to launch.
+This is what I wanted to do initially but thought it to be too much of a change without starting some kind of discussion here first.
+As for the example scenario - this is from the launch.json in my test project
+<code class="language-json"><span class="token property">"configurations"</span><span class="token operator">:</span> <span class="token punctuation">[</span>
+        <span class="token punctuation">{</span>
+<span class="token trimmed">(7 more lines were trimmed)</span></code>
+<i>
+I wonder if that shouldn't be a property within the dap.adapter definitions instead of the configuration.
+So that there is an adapter.id property. Although that would require some more changes so that initialize has access to the used adapter definition.
+</i>
+Yeah, that's what I initially did but decided against it to not introduce a breaking change. 
+<i>
+Are there any debug adapters that are vscode-only and reject other clients?
+</i>
+Yeah, especially microsoft adapters :) I wanted to reverse a DRM mechanism in one of those ( just for fun, microsoft, I swear) and noticed that clientID is verified
+<i>
+I'd also tend to put the override values elsewhere. I'm not too keen on overloading configuration for multiple purposes. The values there should be used to configure the debug adapter.
+It would be possible to use the M.defaults table instead.
+</i>
+Can you elaborate on how you would approach this with defaults? I wanted something simple that would allow me to simply change something in launch.json and try again. Having the ID in the config may also be a good idea to support adapters that act differently based on clientID ( haven't seen that yet ) without changing the adapter setup. 
 </div>
                                 </div>
                             </section>
@@ -1941,7 +1969,7 @@ In any case what I meant was that the prompt heading is under Prezto and I think
                                     </svg>
                                     <div class="name">
                                         <span>trustwallet/assets</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1983,7 +2011,7 @@ In any case what I meant was that the prompt heading is under Prezto and I think
                                     </svg>
                                     <div class="name">
                                         <span>0xAizen/FairSafe</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2020,7 +2048,7 @@ In any case what I meant was that the prompt heading is under Prezto and I think
                                     </svg>
                                     <div class="name">
                                         <span>pancakeswap/lottery-contract</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2257,7 +2285,7 @@ In any case what I meant was that the prompt heading is under Prezto and I think
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.68330878139268 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.68688261073058 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2343,7 +2371,7 @@ In any case what I meant was that the prompt heading is under Prezto and I think
         </div>
                     <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-          648 issue comments
+          649 issue comments
         </div>
                 </section>
                 <section>
@@ -2374,7 +2402,7 @@ In any case what I meant was that the prompt heading is under Prezto and I think
             </div>
             <footer>
                 <span>These metrics include private contributions, timezone Asia/Jerusalem</span>
-                <span>Last updated Tue, 20 Apr 2021 15:02:59 GMT with lowlighter/metrics@3.8.0-beta</span>
+                <span>Last updated Tue, 20 Apr 2021 16:03:49 GMT with lowlighter/metrics@3.8.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
