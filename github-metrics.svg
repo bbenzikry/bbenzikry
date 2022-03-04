@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1536" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1669" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none;position:relative}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none;position:relative}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -85,63 +85,91 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">bbenzikry/sqlalchemy-neo4j</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#245254d</div>
+                                        <div class="message">Merge pull request #2 from bbenzikry/0.2.dev
+
+0.2.dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ff36f9</div>
+                                        <div class="message">fix driver for basic pip installs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9a84bd</div>
+                                        <div class="message">license</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#2 0.2.dev</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">bbenzikry/sqlalchemy-neo4j</span></div>
+                                    <div>4 files changed <span class="code">++26 --5</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#2 0.2.dev</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">bbenzikry/sqlalchemy-neo4j</span></div>
+                                    <div>4 files changed <span class="code">++26 --5</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">0.2.dev</span>
+                                        in
+                                        <span class="repo">bbenzikry/sqlalchemy-neo4j</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
                                         Starred
                                         <span class="repo">BishopFox/unredacter</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">thoas/go-funk</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">samber/lo</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">l3nz/cli-matic</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">oconnor663/duct.rs</span>
                                     </div>
                                 </div>
                             </section>
@@ -164,43 +192,43 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="152.36603088459626" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="152.36603088459626" y="0" width="70.42702301840795" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="222.79305390300422" y="0" width="61.32612936456692" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="284.1191832675711" y="0" width="55.61938698934142" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="339.7385702569125" y="0" width="35.00469587622398" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="374.7432661331365" y="0" width="31.697053572733033" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="406.44031970586957" y="0" width="25.315283521839877" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="431.7556032277094" y="0" width="6.129989948190229" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="437.88559317589966" y="0" width="3.8381016634984357" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="441.72369483939815" y="0" width="3.7786703154920023" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="445.50236515489013" y="0" width="3.593382379730954" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="449.09574753462107" y="0" width="3.0225547673895066" height="8" fill="#4298b8"/>
-                    <rect mask="url(#languages-bar)" x="452.1183023020106" y="0" width="1.7556229906307383" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.87392529264133" y="0" width="1.1232112055521442" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="454.99713649819347" y="0" width="0.849133192814517" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.846269691008" y="0" width="0.8263779469561979" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="456.6726476379642" y="0" width="0.6011790946848229" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.273826732649" y="0" width="0.5396618491413768" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="457.8134885817904" y="0" width="0.4270903093363981" height="8" fill="#185619"/>
-                    <rect mask="url(#languages-bar)" x="458.24057889112675" y="0" width="0.4025838019095711" height="8" fill="#724b3b"/>
-                    <rect mask="url(#languages-bar)" x="458.64316269303634" y="0" width="0.28593528055497675" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.9290979735913" y="0" width="0.26832785134548814" height="8" fill="#db5855"/>
-                    <rect mask="url(#languages-bar)" x="459.19742582493683" y="0" width="0.11013985176717798" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.30756567670403" y="0" width="0.10926979824906578" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.4168354749531" y="0" width="0.09669864036557282" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="459.51353411531863" y="0" width="0.0946462064254107" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="459.60818032174404" y="0" width="0.08361995126318106" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.69180027300723" y="0" width="0.07690492282852023" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="459.76870519583576" y="0" width="0.06018427893556906" height="8" fill="#9DC3FF"/>
-                    <rect mask="url(#languages-bar)" x="459.82888947477136" y="0" width="0.04598455933868658" height="8" fill="#a270ba"/>
-                    <rect mask="url(#languages-bar)" x="459.87487403411006" y="0" width="0.03703304718118604" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="459.91190708129125" y="0" width="0.033262815269366496" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="459.94516989656057" y="0" width="0.022364837228396987" height="8" fill="#76d275"/>
-                    <rect mask="url(#languages-bar)" x="459.96753473378897" y="0" width="0.014367037581134823" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="459.98190177137013" y="0" width="0.01045737401577166" height="8" fill="#2af0ff"/>
-                    <rect mask="url(#languages-bar)" x="459.9923591453859" y="0" width="0.006675987571668628" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.99903513295754" y="0" width="0.0009648670425218652" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="152.36600502155133" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="152.36600502155133" y="0" width="70.42708914563681" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="222.79309416718817" y="0" width="61.3261189548947" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="284.11921312208284" y="0" width="55.61937754834795" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="339.73859067043077" y="0" width="35.004689934427006" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="374.7432806048578" y="0" width="31.697048192384706" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="406.44032879724244" y="0" width="25.31527922475141" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="431.75560802199385" y="0" width="6.129988907668241" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="437.8855969296621" y="0" width="3.838101012008107" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="441.7236979416702" y="0" width="3.77866967408972" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="445.50236761575997" y="0" width="3.593381769779974" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="449.0957493855399" y="0" width="3.0225542543324346" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="452.11830363987235" y="0" width="1.755622692626282" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.8739263324986" y="0" width="1.123211014895069" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="454.99713734739373" y="0" width="0.8491330486802257" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.8462703960739" y="0" width="0.8263778066844469" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="456.6726482027584" y="0" width="0.6011789926389678" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.27382719539736" y="0" width="0.5396617575376346" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="457.81348895293496" y="0" width="0.42709023684087016" height="8" fill="#185619"/>
+                    <rect mask="url(#languages-bar)" x="458.2405791897758" y="0" width="0.40258373357384764" height="8" fill="#724b3b"/>
+                    <rect mask="url(#languages-bar)" x="458.6431629233497" y="0" width="0.28593523201950627" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.92909815536916" y="0" width="0.268327805798753" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="459.19742596116794" y="0" width="0.11013983307172524" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.3075657942397" y="0" width="0.1092697797012984" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.41683557394094" y="0" width="0.09669862395166966" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="459.51353419789257" y="0" width="0.09464619035989352" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="459.6081803882525" y="0" width="0.08361993706929191" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.69180032532176" y="0" width="0.07690490977445916" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="459.76870523509626" y="0" width="0.060184268719717805" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="459.82888950381596" y="0" width="0.04598455153313625" height="8" fill="#a270ba"/>
+                    <rect mask="url(#languages-bar)" x="459.8748740553491" y="0" width="0.03703304089509092" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="459.9119070962442" y="0" width="0.03326280962324131" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="459.94516990586743" y="0" width="0.022364833432125697" height="8" fill="#76d275"/>
+                    <rect mask="url(#languages-bar)" x="459.96753473929954" y="0" width="0.014367035142432866" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="459.98190177444195" y="0" width="0.010457372240707152" height="8" fill="#2af0ff"/>
+                    <rect mask="url(#languages-bar)" x="459.99235914668265" y="0" width="0.006675986438467446" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.99903513312114" y="0" width="0.00096486687874258" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -684,7 +712,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BishopFox/unredacter</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Never ever ever use pixelation as a redaction technique</div>
@@ -737,7 +765,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thoas/go-funk</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern Go utility library which provides helpers (map, find, contains, filter, ...)</div>
@@ -790,7 +818,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samber/lo</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)</div>
@@ -811,7 +839,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        415
+                                        423
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1146,7 +1174,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5024 Commits
+                            5027 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1158,7 +1186,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            47 Pull requests opened
+                            48 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1217,7 +1245,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2022, 21:01:43 (timezone Asia/Jerusalem) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 4 Mar 2022, 22:01:49 (timezone Asia/Jerusalem) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
