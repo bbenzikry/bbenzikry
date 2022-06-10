@@ -172,7 +172,7 @@
                     <rect mask="url(#languages-bar)" x="348.43909830276993" y="0" width="26.446757109785118" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="374.88585541255503" y="0" width="18.461756490402603" height="8" fill="#AA6746"/>
                     <rect mask="url(#languages-bar)" x="393.3476119029576" y="0" width="12.173968505085215" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="405.5215804080429" y="0" width="11.501114797049576" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="405.5215804080429" y="0" width="11.501114797049576" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="417.0226952050924" y="0" width="9.598395583664587" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="426.62109078875704" y="0" width="8.63062310264283" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="435.2517138913999" y="0" width="6.131021090429821" height="8" fill="#f1e05a"/>
@@ -250,7 +250,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -782,7 +782,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obfusk/apksigcopier</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">apksigcopier - copy/extract/patch android apk signatures &amp; compare apks</div>
@@ -835,7 +835,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gigasquid/vsa-clj</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VSA Computing Experiments in Clojure</div>
@@ -888,7 +888,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zesterer/pollster</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimal async executor that lets you block on a future</div>
@@ -1315,7 +1315,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 13:02:00 (timezone Asia/Jerusalem) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 10 Jun 2022, 14:01:39 (timezone Asia/Jerusalem) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
