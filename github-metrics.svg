@@ -1061,7 +1061,7 @@ Some of the suggested implementations require decisions around where the respons
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="501.68333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="501.7866666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1080,10 +1080,10 @@ Some of the suggested implementations require decisions around where the respons
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">5855</div>
+                                        <div class="value">5856</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 5855 repositories</div>
+                                <div class="text">Starred 5856 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1274,7 +1274,7 @@ Some of the suggested implementations require decisions around where the respons
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            937 Issues opened
+                            939 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1326,7 +1326,7 @@ Some of the suggested implementations require decisions around where the respons
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2022, 04:29:26 (timezone Asia/Jerusalem) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 21 Aug 2022, 06:31:05 (timezone Asia/Jerusalem) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
