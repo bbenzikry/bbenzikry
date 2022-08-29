@@ -758,7 +758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Amanieu/parking_lot</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.</div>
@@ -811,7 +811,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>transmissions11/VRGDAs</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Variable Rate Gradual Dutch Auctions.</div>
@@ -864,7 +864,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>omgovich/react-colorful</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎨 A tiny (2,8 KB) color picker component for React and Preact apps</div>
@@ -917,7 +917,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jon-Becker/heimdall-rs</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Heimdall is an advanced Ethereum smart contract toolkit for forensic and heuristic analysis.</div>
@@ -1139,7 +1139,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.9336071184120627 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.0184804928131292 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1220,7 +1220,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6144 Commits
+                            6145 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1291,7 +1291,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Aug 2022, 21:01:37 (timezone Asia/Jerusalem) with lowlighter/metrics@3.28.0-beta</span>
+                <span>Last updated 29 Aug 2022, 22:01:29 (timezone Asia/Jerusalem) with lowlighter/metrics@3.28.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
