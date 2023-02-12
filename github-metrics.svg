@@ -710,7 +710,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hunterlong/gethexporter</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monitor your Geth Ethereum Server with Prometheus and Grafana</div>
@@ -757,7 +757,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/nftables</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains a Go module to interact with Linux nftables (the iptables successor).</div>
@@ -810,7 +810,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jdxcode/rtx</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Runtime Executor (asdf rust clone)</div>
@@ -863,7 +863,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>31z4/ethereum-prometheus-exporter</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prometheus exporter for Ethereum client metrics</div>
@@ -1085,7 +1085,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2915811088295683 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.37645448323069 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1237,7 +1237,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2023, 20:01:35 (timezone Asia/Jerusalem) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 12 Feb 2023, 21:01:23 (timezone Asia/Jerusalem) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
