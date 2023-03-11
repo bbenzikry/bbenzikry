@@ -648,7 +648,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/apisix</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cloud-Native API Gateway</div>
@@ -701,7 +701,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deanishe/awgo</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go library for Alfred 3 + 4 workflows</div>
@@ -754,7 +754,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>travisjeffery/jocko</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)</div>
@@ -807,7 +807,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>manifoldfinance/geth-sealer</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1030,7 +1030,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.952087611225192 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.0369609856262585 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1182,7 +1182,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2023, 20:01:30 (timezone Asia/Jerusalem) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 11 Mar 2023, 21:01:31 (timezone Asia/Jerusalem) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
