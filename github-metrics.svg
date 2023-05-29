@@ -708,7 +708,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containers/youki</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A container runtime written in Rust</div>
@@ -761,7 +761,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xJuancito/multichain-auditor</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Observations and tips for auditing protocols on multiple chains 🧐</div>
@@ -808,7 +808,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>s0md3v/XSStrike</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Most advanced XSS scanner.</div>
@@ -861,7 +861,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>s0md3v/Smap</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a drop-in replacement for Nmap powered by shodan.io</div>
@@ -1083,7 +1083,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.9336071184120627 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1235,7 +1235,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2023, 21:01:41 (timezone Asia/Jerusalem) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 29 May 2023, 22:01:23 (timezone Asia/Jerusalem) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
