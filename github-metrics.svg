@@ -252,7 +252,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catppuccin/catppuccin</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😸 Soothing pastel theme for the high-spirited!</div>
@@ -305,7 +305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>a-h/templ</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A language for writing HTML user interfaces in Go.</div>
@@ -358,7 +358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>busyloop/lolcat</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rainbows and unicorns!</div>
@@ -601,7 +601,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.169746748802186 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.25462012320331 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -787,7 +787,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2024, 20:01:30 (timezone Asia/Jerusalem) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 18 Jan 2024, 21:01:31 (timezone Asia/Jerusalem) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
