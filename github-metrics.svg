@@ -829,7 +829,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytecodealliance/wasmtime-go</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go WebAssembly runtime powered by Wasmtime</div>
@@ -882,7 +882,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nervosnetwork/ckb</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.</div>
@@ -935,7 +935,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NethermindEth/Taiko-Preconf-AVS</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -983,7 +983,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astral-sh/uv</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extremely fast Python package and project manager, written in Rust.</div>
@@ -1152,7 +1152,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 6.38k out of 146m users</span>
+                                    <span class="gh">ranked 6.38k out of 145m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">619</div>
                                     </div>
@@ -1205,7 +1205,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.697467488021886 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.782340862423005 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1357,7 +1357,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2024, 21:01:32 (timezone Asia/Jerusalem) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Oct 2024, 22:01:21 (timezone Asia/Jerusalem) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
